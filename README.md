@@ -1,3 +1,3 @@
 # Crimson
 
-The new replacement for Teal at WJRH
+The Record Library Manger for WJRH
